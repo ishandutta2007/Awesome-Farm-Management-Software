@@ -66,31 +66,31 @@ The commercial farm management ecosystem spans specialized suites for enterprise
 Open-source AgTech empowers growers, research institutions, and smallholders with self-hosted record-keeping, offline capabilities, and data sovereignty.
 
 - **[OpenFarm](https://github.com/openfarmcc/OpenFarm)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/openfarmcc/OpenFarm?style=social&color=white)](https://github.com/openfarmcc/OpenFarm/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/openfarmcc/OpenFarm?style=social&color=white)](https://github.com/openfarmcc/OpenFarm/stargazers)  
   🌐 Free and open crowd-sourced database and web application for farming and gardening knowledge.
 
 - **[farmOS](https://github.com/farmOS/farmOS)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/farmOS/farmOS?style=social&color=white)](https://github.com/farmOS/farmOS/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/farmOS/farmOS?style=social&color=white)](https://github.com/farmOS/farmOS/stargazers)  
   🚜 Mature, community-driven Drupal-based web application for farm record keeping, mapping, sensors, assets, and yield tracking.
 
 - **[Tania](https://github.com/usetania/tania)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/usetania/tania?style=social&color=white)](https://github.com/usetania/tania/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/usetania/tania?style=social&color=white)](https://github.com/usetania/tania/stargazers)  
   🌱 Open-source farm management system designed for smallholders, hydroponics, and indoor farming operations.
 
 - **[LiteFarm](https://github.com/LiteFarmOrg/LiteFarm)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm?style=social&color=white)](https://github.com/LiteFarmOrg/LiteFarm/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/LiteFarmOrg/LiteFarm?style=social&color=white)](https://github.com/LiteFarmOrg/LiteFarm/stargazers)  
   🌾 Community-led open-source digital platform for sustainable and diversified farmers (developed with UBC).
 
 - **[farmOS Field Kit](https://github.com/farmOS/field-kit)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/farmOS/field-kit?style=social&color=white)](https://github.com/farmOS/field-kit/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/farmOS/field-kit?style=social&color=white)](https://github.com/farmOS/field-kit/stargazers)  
   📱 Offline-first PWA and mobile companion app for in-field data entry with farmOS.
 
 - **[farmOS.py](https://github.com/farmOS/farmOS.py)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/farmOS/farmOS.py?style=social&color=white)](https://github.com/farmOS/farmOS.py/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/farmOS/farmOS.py?style=social&color=white)](https://github.com/farmOS/farmOS.py/stargazers)  
   🐍 Python API client library for integrating sensor networks, scripts, and IoT equipment with farmOS.
 
 - **[farmOS Aggregator](https://github.com/farmOS/farmOS-aggregator)**  
-  [![GitHub Stars](https://img.shields.io/github/stars/farmOS/farmOS-aggregator?style=social&color=white)](https://github.com/farmOS/farmOS-aggregator/stargazers)  
+  [![GitHub_Stars](https://img.shields.io/github/stars/farmOS/farmOS-aggregator?style=social&color=white)](https://github.com/farmOS/farmOS-aggregator/stargazers)  
   📡 Open microservice for aggregating and managing data from multiple farmOS server instances.
 
 ---
